@@ -1,1 +1,22 @@
+{
+  "language": "hi",
+  "type": "alphabet",
+  "items": [
+    {
+      "concept_key": "LETTER_A",
+      "display_text": "अ",
+      "transliteration": "a",
+      "example_word": "असम",
+      "concept_id": "LETTER_A"
+    },
+    {
+      "concept_key": "LETTER_KA",
+      "display_text": "क",
+      "transliteration": "ka",
+      "example_word": "कमल",
+      "concept_id": "LETTER_KA"
+    }
+    // add all letters...
+  ]
+}
 
