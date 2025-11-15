@@ -2,7 +2,7 @@
   "language": "hi",
   "type": "alphabet",
   "items": [
-    /* -------- स्वरों के अक्षर -------- */
+    
     {
       "concept_key": "LETTER_A",
       "display_text": "अ",
@@ -320,7 +320,7 @@
       "concept_id": "LETTER_HA"
     },
 
-    /* -------- संयुक्त अक्षर -------- */
+   
     {
       "concept_key": "LETTER_KSHA",
       "display_text": "क्ष",
