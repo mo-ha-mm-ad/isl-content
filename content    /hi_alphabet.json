@@ -2,6 +2,7 @@
   "language": "hi",
   "type": "alphabet",
   "items": [
+    /* -------- स्वरों के अक्षर -------- */
     {
       "concept_key": "LETTER_A",
       "display_text": "अ",
@@ -10,13 +11,336 @@
       "concept_id": "LETTER_A"
     },
     {
+      "concept_key": "LETTER_AA",
+      "display_text": "आ",
+      "transliteration": "aa",
+      "example_word": "आम",
+      "concept_id": "LETTER_AA"
+    },
+    {
+      "concept_key": "LETTER_I",
+      "display_text": "इ",
+      "transliteration": "i",
+      "example_word": "इकतारा",
+      "concept_id": "LETTER_I"
+    },
+    {
+      "concept_key": "LETTER_II",
+      "display_text": "ई",
+      "transliteration": "ii",
+      "example_word": "ईख",
+      "concept_id": "LETTER_II"
+    },
+    {
+      "concept_key": "LETTER_U",
+      "display_text": "उ",
+      "transliteration": "u",
+      "example_word": "उधर",
+      "concept_id": "LETTER_U"
+    },
+    {
+      "concept_key": "LETTER_UU",
+      "display_text": "ऊ",
+      "transliteration": "uu",
+      "example_word": "ऊन",
+      "concept_id": "LETTER_UU"
+    },
+    {
+      "concept_key": "LETTER_RI",
+      "display_text": "ऋ",
+      "transliteration": "ri",
+      "example_word": "ऋण",
+      "concept_id": "LETTER_RI"
+    },
+    {
+      "concept_key": "LETTER_E",
+      "display_text": "ए",
+      "transliteration": "e",
+      "example_word": "एक",
+      "concept_id": "LETTER_E"
+    },
+    {
+      "concept_key": "LETTER_AI",
+      "display_text": "ऐ",
+      "transliteration": "ai",
+      "example_word": "ऐनक",
+      "concept_id": "LETTER_AI"
+    },
+    {
+      "concept_key": "LETTER_O",
+      "display_text": "ओ",
+      "transliteration": "o",
+      "example_word": "ओखली",
+      "concept_id": "LETTER_O"
+    },
+    {
+      "concept_key": "LETTER_AU",
+      "display_text": "औ",
+      "transliteration": "au",
+      "example_word": "औषधि",
+      "concept_id": "LETTER_AU"
+    },
+
+    /* -------- व्यंजन -------- */
+    {
       "concept_key": "LETTER_KA",
       "display_text": "क",
       "transliteration": "ka",
       "example_word": "कमल",
       "concept_id": "LETTER_KA"
+    },
+    {
+      "concept_key": "LETTER_KHA",
+      "display_text": "ख",
+      "transliteration": "kha",
+      "example_word": "खरगोश",
+      "concept_id": "LETTER_KHA"
+    },
+    {
+      "concept_key": "LETTER_GA",
+      "display_text": "ग",
+      "transliteration": "ga",
+      "example_word": "गमला",
+      "concept_id": "LETTER_GA"
+    },
+    {
+      "concept_key": "LETTER_GHA",
+      "display_text": "घ",
+      "transliteration": "gha",
+      "example_word": "घर",
+      "concept_id": "LETTER_GHA"
+    },
+    {
+      "concept_key": "LETTER_NGA",
+      "display_text": "ङ",
+      "transliteration": "nga",
+      "example_word": "अंग",
+      "concept_id": "LETTER_NGA"
+    },
+
+    {
+      "concept_key": "LETTER_CHA",
+      "display_text": "च",
+      "transliteration": "cha",
+      "example_word": "चाबी",
+      "concept_id": "LETTER_CHA"
+    },
+    {
+      "concept_key": "LETTER_CHHA",
+      "display_text": "छ",
+      "transliteration": "chha",
+      "example_word": "छतरी",
+      "concept_id": "LETTER_CHHA"
+    },
+    {
+      "concept_key": "LETTER_JA",
+      "display_text": "ज",
+      "transliteration": "ja",
+      "example_word": "जंगल",
+      "concept_id": "LETTER_JA"
+    },
+    {
+      "concept_key": "LETTER_JHA",
+      "display_text": "झ",
+      "transliteration": "jha",
+      "example_word": "झंडा",
+      "concept_id": "LETTER_JHA"
+    },
+    {
+      "concept_key": "LETTER_NYA",
+      "display_text": "ञ",
+      "transliteration": "nya",
+      "example_word": "ज्ञान",
+      "concept_id": "LETTER_NYA"
+    },
+
+    {
+      "concept_key": "LETTER_TA1",
+      "display_text": "ट",
+      "transliteration": "ta",
+      "example_word": "टोकरी",
+      "concept_id": "LETTER_TA1"
+    },
+    {
+      "concept_key": "LETTER_THA1",
+      "display_text": "ठ",
+      "transliteration": "tha",
+      "example_word": "ठंड",
+      "concept_id": "LETTER_THA1"
+    },
+    {
+      "concept_key": "LETTER_DA1",
+      "display_text": "ड",
+      "transliteration": "da",
+      "example_word": "डमरू",
+      "concept_id": "LETTER_DA1"
+    },
+    {
+      "concept_key": "LETTER_DHA1",
+      "display_text": "ढ",
+      "transliteration": "dha",
+      "example_word": "ढोल",
+      "concept_id": "LETTER_DHA1"
+    },
+    {
+      "concept_key": "LETTER_ANA",
+      "display_text": "ण",
+      "transliteration": "na",
+      "example_word": "वर्ण",
+      "concept_id": "LETTER_ANA"
+    },
+
+    {
+      "concept_key": "LETTER_TA2",
+      "display_text": "त",
+      "transliteration": "ta",
+      "example_word": "तरबूज",
+      "concept_id": "LETTER_TA2"
+    },
+    {
+      "concept_key": "LETTER_THA2",
+      "display_text": "थ",
+      "transliteration": "tha",
+      "example_word": "थाली",
+      "concept_id": "LETTER_THA2"
+    },
+    {
+      "concept_key": "LETTER_DA2",
+      "display_text": "द",
+      "transliteration": "da",
+      "example_word": "दरवाज़ा",
+      "concept_id": "LETTER_DA2"
+    },
+    {
+      "concept_key": "LETTER_DHA2",
+      "display_text": "ध",
+      "transliteration": "dha",
+      "example_word": "धन",
+      "concept_id": "LETTER_DHA2"
+    },
+    {
+      "concept_key": "LETTER_NA",
+      "display_text": "न",
+      "transliteration": "na",
+      "example_word": "नदी",
+      "concept_id": "LETTER_NA"
+    },
+
+    {
+      "concept_key": "LETTER_PA",
+      "display_text": "प",
+      "transliteration": "pa",
+      "example_word": "पतंग",
+      "concept_id": "LETTER_PA"
+    },
+    {
+      "concept_key": "LETTER_PHA",
+      "display_text": "फ",
+      "transliteration": "pha",
+      "example_word": "फल",
+      "concept_id": "LETTER_PHA"
+    },
+    {
+      "concept_key": "LETTER_BA",
+      "display_text": "ब",
+      "transliteration": "ba",
+      "example_word": "बिल्ली",
+      "concept_id": "LETTER_BA"
+    },
+    {
+      "concept_key": "LETTER_BHA",
+      "display_text": "भ",
+      "transliteration": "bha",
+      "example_word": "भालू",
+      "concept_id": "LETTER_BHA"
+    },
+    {
+      "concept_key": "LETTER_MA",
+      "display_text": "म",
+      "transliteration": "ma",
+      "example_word": "मकान",
+      "concept_id": "LETTER_MA"
+    },
+
+    {
+      "concept_key": "LETTER_YA",
+      "display_text": "य",
+      "transliteration": "ya",
+      "example_word": "यज्ञ",
+      "concept_id": "LETTER_YA"
+    },
+    {
+      "concept_key": "LETTER_RA",
+      "display_text": "र",
+      "transliteration": "ra",
+      "example_word": "रथ",
+      "concept_id": "LETTER_RA"
+    },
+    {
+      "concept_key": "LETTER_LA",
+      "display_text": "ल",
+      "transliteration": "la",
+      "example_word": "लड्डू",
+      "concept_id": "LETTER_LA"
+    },
+    {
+      "concept_key": "LETTER_VA",
+      "display_text": "व",
+      "transliteration": "va",
+      "example_word": "वाटिका",
+      "concept_id": "LETTER_VA"
+    },
+
+    {
+      "concept_key": "LETTER_SHA",
+      "display_text": "श",
+      "transliteration": "sha",
+      "example_word": "शेर",
+      "concept_id": "LETTER_SHA"
+    },
+    {
+      "concept_key": "LETTER_SHA2",
+      "display_text": "ष",
+      "transliteration": "shha",
+      "example_word": "षट्कोण",
+      "concept_id": "LETTER_SHA2"
+    },
+      {
+      "concept_key": "LETTER_SA",
+      "display_text": "स",
+      "transliteration": "sa",
+      "example_word": "सूरज",
+      "concept_id": "LETTER_SA"
+    },
+    {
+      "concept_key": "LETTER_HA",
+      "display_text": "ह",
+      "transliteration": "ha",
+      "example_word": "हल्दी",
+      "concept_id": "LETTER_HA"
+    },
+
+    /* -------- संयुक्त अक्षर -------- */
+    {
+      "concept_key": "LETTER_KSHA",
+      "display_text": "क्ष",
+      "transliteration": "ksha",
+      "example_word": "क्षमा",
+      "concept_id": "LETTER_KSHA"
+    },
+    {
+      "concept_key": "LETTER_TRA",
+      "display_text": "त्र",
+      "transliteration": "tra",
+      "example_word": "त्रिकोण",
+      "concept_id": "LETTER_TRA"
+    },
+    {
+      "concept_key": "LETTER_GYA",
+      "display_text": "ज्ञ",
+      "transliteration": "gya",
+      "example_word": "ज्ञान",
+      "concept_id": "LETTER_GYA"
     }
-    // add all letters...
   ]
 }
-
